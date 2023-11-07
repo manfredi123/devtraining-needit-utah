@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Statics" section_id="077d662e47d2311028250bdbd36d43eb" sys_domain="global" table="x_58872_needit_needit" version="3" view="User">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-07 11:40:36</sys_created_on>
+            <sys_id>977da62e47d2311028250bdbd36d433d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-07 11:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-07 11:40:36</sys_created_on>
+            <sys_id>1b7da62e47d2311028250bdbd36d433d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-07 11:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-07 11:40:36</sys_created_on>
+            <sys_id>9b7da62e47d2311028250bdbd36d433d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-07 11:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-07 11:40:36</sys_created_on>
+            <sys_id>1f7da62e47d2311028250bdbd36d433d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-07 11:40:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-07 11:40:36</sys_created_on>
+            <sys_id>9f7da62e47d2311028250bdbd36d433d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-07 11:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-07 11:40:36</sys_created_on>
+            <sys_id>137da62e47d2311028250bdbd36d433e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-07 11:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-07 11:40:36</sys_created_on>
+            <sys_id>937da62e47d2311028250bdbd36d433e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-07 11:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-07 11:40:36</sys_created_on>
+            <sys_id>177da62e47d2311028250bdbd36d433e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-07 11:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Statics</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-07 11:40:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>077d662e47d2311028250bdbd36d43eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_077d662e47d2311028250bdbd36d43eb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-07 11:40:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>017107ebdb0ce19007072f17d4961966</instance_id>
+        <instance_name>dev147004</instance_name>
+        <name>sys_ui_section_077d662e47d2311028250bdbd36d43eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Statics" section_id="077d662e47d2311028250bdbd36d43eb" sys_domain="global" table="x_58872_needit_needit" version="3" view="User"><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_at</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-07 11:40:36</sys_created_on><sys_id>977da62e47d2311028250bdbd36d433d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-07 11:40:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_updated_on</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-07 11:40:36</sys_created_on><sys_id>1b7da62e47d2311028250bdbd36d433d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-07 11:40:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_on</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-07 11:40:36</sys_created_on><sys_id>9b7da62e47d2311028250bdbd36d433d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-07 11:40:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-07 11:40:36</sys_created_on><sys_id>1f7da62e47d2311028250bdbd36d433d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-07 11:40:36</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_by</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-07 11:40:36</sys_created_on><sys_id>9f7da62e47d2311028250bdbd36d433d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-07 11:40:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_updated_by</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-07 11:40:36</sys_created_on><sys_id>137da62e47d2311028250bdbd36d433e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-07 11:40:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_created_by</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-07 11:40:36</sys_created_on><sys_id>937da62e47d2311028250bdbd36d433e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-07 11:40:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-07 11:40:36</sys_created_on><sys_id>177da62e47d2311028250bdbd36d433e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Statics" display_value="Statics" name="x_58872_needit_needit" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">077d662e47d2311028250bdbd36d43eb</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-07 11:40:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Statics</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-07 11:40:35</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>077d662e47d2311028250bdbd36d43eb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_077d662e47d2311028250bdbd36d43eb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-07 11:40:35</sys_updated_on><sys_user/><title>false</title><view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-2019729102</payload_hash>
+        <record_name>Task</record_name>
+        <reverted_from/>
+        <source>01fd46d64792b11028250bdbd36d43ec</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-07 11:40:37</sys_created_on>
+        <sys_id>1b7da62e47d2311028250bdbd36d4340</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ba9959f020000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-07 11:40:37</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>9f7da62e8cd23110024953e2fa48d33f</update_guid>
+        <update_guid_history>9f7da62e8cd23110024953e2fa48d33f:-2019729102</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-07 11:42:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>90725a97cfd64070a2107eb5af229790</sys_id>
+        <sys_metadata>077d662e47d2311028250bdbd36d43eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Statics</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">44b71aea4752311028250bdbd36d43b2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_077d662e47d2311028250bdbd36d43eb</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_077d662e47d2311028250bdbd36d43eb">1b7da62e47d2311028250bdbd36d4340</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-07 11:42:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
